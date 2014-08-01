@@ -230,6 +230,19 @@
 		            "default" 		: "MyApexClass"
 		        }
 		   ]
+		},
+		{
+			"name" 			: "Test Object Factory",
+			"file_name" 	: "TestObjectFactory.cls",
+			"description"	: "Test Object Factory class",
+			"author"		: "Trineo",
+			"params" 		: [	
+				{
+					"name"			: "api_name",
+					"description"	: "Name of the class",
+					"default"		: "TestObjectFactory"
+				}
+			]
 		}
 	],
 	"ApexComponent" : [
